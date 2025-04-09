@@ -1,0 +1,9 @@
+creator: gvaics-it <vasiliy.grigorev@ics-it.ru>
+targetBranch: master
+createdAt: '2025-04-09 07:31:33'
+approvers:
+- user: gvaics-it <vasiliy.grigorev@ics-it.ru>
+  approvedAt: '2025-04-09 07:31:36'
+options:
+  deleteAfterMerge: true
+description: ''
