@@ -51,3 +51,5 @@ asdasd
 123123123123123123
 
 фыв
+
+<plant-uml path="./new-article.puml" width="110px" height="120px"/>

@@ -2,27 +2,27 @@
 title: "1"
 ---
 
-[icon:business_website_online_presence_digital_platform_web_design_internet_marketing_icon_262978:green] asda
+<icon code="business_website_online_presence_digital_platform_web_design_internet_marketing_icon_262978" color="green"/> asda
 
 ### Как работали в YouTrack по задачам разработки
 
-[icon:file-plus:red]
+<icon code="file-plus" color="red"/>
 
-[icon:123:blue]123[icon:creativity-svgrepo-com]
+<icon code="123" color="blue"/>123<icon code="creativity-svgrepo-com"/>
 
 asdasd
 
-[icon:asdasdasd:green]123
+<icon code="asdasdasd" color="green"/>123
 
-ad[icon:column-chart-svgrepo-com][icon:notify-svgrepo-com][icon:a-arrow-up][icon:a-large-small][icon:address-svgrepo-com][icon:notify-svgrepo-com][icon:upload-svgrepo-com][icon:user-svgrepo-com][icon:user-svgrepo-com][icon:annoyed][icon:arrow-left-right][icon:arrow-down-up][icon:arrow-down-to-dot][icon:arrow-left-right][icon:arrow-left-right][icon:arrow-left-to-line][icon:audio-waveform][icon:badge-cent][icon:arrows-up-from-line][icon:badge][icon:bar-chart4][icon:arrow-up-z-a][icon:angry][icon:notify-svgrepo-com][icon:notify-svgrepo-com]
+ad<icon code="column-chart-svgrepo-com"/><icon code="notify-svgrepo-com"/><icon code="a-arrow-up"/><icon code="a-large-small"/><icon code="address-svgrepo-com"/><icon code="notify-svgrepo-com"/><icon code="upload-svgrepo-com"/><icon code="user-svgrepo-com"/><icon code="user-svgrepo-com"/><icon code="annoyed"/><icon code="arrow-left-right"/><icon code="arrow-down-up"/><icon code="arrow-down-to-dot"/><icon code="arrow-left-right"/><icon code="arrow-left-right"/><icon code="arrow-left-to-line"/><icon code="audio-waveform"/><icon code="badge-cent"/><icon code="arrows-up-from-line"/><icon code="badge"/><icon code="bar-chart4"/><icon code="arrow-up-z-a"/><icon code="angry"/><icon code="notify-svgrepo-com"/><icon code="notify-svgrepo-com"/>
 
-adasd [icon:apple:yellow]123Qweqwe
+adasd <icon code="apple" color="yellow"/>123Qweqwe
 
-[snippet:123]
+<snippet id="123"/>
 
 ![](./new_article_0.png)
 
-[icon:business_website_online_presence_digital_platform_web_design_internet_marketing_icon_262978]Какие проблемы осознали со временем:
+<icon code="business_website_online_presence_digital_platform_web_design_internet_marketing_icon_262978"/>Какие проблемы осознали со временем:
 
 1. **Сложно описывать концепции.**
 
@@ -32,7 +32,7 @@ adasd [icon:apple:yellow]123Qweqwe
 
 Дали пространство для творчества
 
-[snippet:asdasdasd]
+<snippet id="asdasdasd"/>
 
 ```
 sdad							
@@ -56,6 +56,6 @@ In progress	Medium	May 18, 2024	May 21, 2024
 
 To do	High	May 22, 2024	May 25, 2024
 
-[icon:trophy-svgrepo-com][icon:airplay][icon:123][icon:user-svgrepo-com][icon:thumbs-up-svgrepo-com][icon:align-justify]
+<icon code="trophy-svgrepo-com"/><icon code="airplay"/><icon code="123"/><icon code="user-svgrepo-com"/><icon code="thumbs-up-svgrepo-com"/><icon code="align-justify"/>
 
 | 1 ||-|| 2 | | - | - | - | | 3 | 4 | 5 | | 6 | 7 | 8 |

@@ -1,5 +1,4 @@
 ---
-order: 0
 title: "2"
 ---
 
@@ -9,7 +8,7 @@ title: "2"
 
 ![](./aasdsd1.png)
 
-[drawio:./q132123we.svg:qwe]
+<drawio path="./q132123we.svg" title="qwe"/>
 
 aqea
 
@@ -19,4 +18,4 @@ aqea
 
 [awdasd](https://asd.co)
 
-[icon:010]
+<icon code="010"/>

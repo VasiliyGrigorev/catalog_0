@@ -1,5 +1,5 @@
 ---
-order: 0
+{}
 ---
 
-[icon:qwe]
+<icon code="qwe"/>
